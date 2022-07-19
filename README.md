@@ -101,7 +101,7 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 ## Facial Expression Recognition
 
 ### :small_orange_diamond: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)
-- (2022) Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Towards_Semi-Supervised_Deep_Facial_Expression_Recognition_With_an_Adaptive_Confidence_CVPR_2022_paper.pdf)][[code](https://github.com/hangyu94/Ada-CM)]
+- (2022) Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Towards_Semi-Supervised_Deep_Facial_Expression_Recognition_With_an_Adaptive_Confidence_CVPR_2022_paper.pdf)],[[code](https://github.com/hangyu94/Ada-CM)]
 - (2022) FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_FERV39k_A_Large-Scale_Multi-Scene_Dataset_for_Facial_Expression_Recognition_in_CVPR_2022_paper.pdf)]
 - (2022) Face2Exp: Combating Data Biases for Facial Expression Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_Face2Exp_Combating_Data_Biases_for_Facial_Expression_Recognition_CVPR_2022_paper.pdf)]
 - (2021) Affective Processes: Stochastic Modelling of Temporal Context for Emotion and Facial Expression Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sanchez_Affective_Processes_Stochastic_Modelling_of_Temporal_Context_for_Emotion_and_CVPR_2021_paper.pdf)]
@@ -156,6 +156,7 @@ Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/conten
 Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)][:dizzy::dizzy::dizzy:]
 
 ### :small_orange_diamond: Association for the Advance of Artificial Intelligence (AAAI)
+- (2021) Robust Lightweight Facial Expression Recognition Network with Label Distribution Training [[paper](https://zengqunzhao.github.io/doc/pdfs/AAAI2021.pdf)],[[code](https://github.com/zengqunzhao/EfficientFace)]
 - (2020) Efficient facial feature learning with wide ensemble-based convolutional neural networks [[paper](https://www2.informatik.uni-hamburg.de/wtm/publications/2020/SMW20/SMW20.pdf)]
 - (2020) MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion
 Recognition [[paper](https://arxiv.org/pdf/1911.09784.pdf)]
@@ -337,17 +338,22 @@ with Multiple Feature Fusion [[paper](https://ieeexplore.ieee.org/document/75185
 - (2018) Cross-Domain Color Facial Expression Recognition Using Transductive Transfer Subspace Learning [[paper](https://ieeexplore.ieee.org/document/7465718)][:dizzy:]
 
 ### :small_orange_diamond: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- (2021) Cross-Domain Facial Expression Recognition: A Unified Evaluation Benchmark and Adversarial Graph Learning [[paper](https://ieeexplore.ieee.org/document/9628054)]
 - (2019) Sparse Coding of Shape Trajectories for Facial Expression and Action Recognition [[paper](https://ieeexplore.ieee.org/document/8787885)]
 - (2017) Selective Transfer Machine for Personalized
 Facial Expression Analysis [[paper](https://ieeexplore.ieee.org/document/7442563)]
 
 ### :small_orange_diamond: International Journal of Computer Vision (IJCV)
+- (2022) Adaptive Deep Disturbance-Disentangled Learning for Facial Expression Recognition [[paper](https://link.springer.com/article/10.1007/s11263-021-01556-7?utm_source=xmol&utm_content=meta)]
 - (2020) Deep Neural Network Augmentation: Generating Faces for Affect
 Analysis [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/kollias2020_article_deepneuralnetworkaugmentationg.pdf)]
 - (2019) Deep affect prediction in-the-wild: Aff-wild database and challenge, deep architectures, and beyond [[paper](https://link.springer.com/article/10.1007/s11263-019-01158-4)]
 - (2019) Blended Emotion in-the-Wild: Multi-label Facial Expression Recognition Using Crowdsourced Annotations and Deep Locality Feature Learning [[paper](https://link.springer.com/article/10.1007/s11263-018-1131-1)]
 
 ### :small_orange_diamond: IEEE Transactions on Image Processing (TIP)
+- (2022) CRS-CONT: A Well-Trained General Encoder for Facial Expression Analysis [[paper](https://ieeexplore.ieee.org/document/9813458)],[[code](https://github.com/hangyu94/CRS-CONT)]
+- (2021) Learning Deep Global Multi-scale and Local Attention Features for Facial Expression Recognition in the Wild [[paper](https://ieeexplore.ieee.org/document/9474949)],[[code](https://github.com/zengqunzhao/MA-Net)]
+- (2021) Adaptively Learning Facial Expression Representation via C-F Labels and Distillation [[paper](https://ieeexplore.ieee.org/document/9321757)]
 - (2020) Facial Expression Recognition in Videos
 using Dynamic Kernels [[paper](https://ieeexplore.ieee.org/abstract/document/9153096)]
 - (2020) Multi-modal Recurrent Attention Networks for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9102419)]
